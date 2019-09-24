@@ -20,3 +20,6 @@
 [submodule "tools/spiffs/mkspiffs"]
 	path = tools/spiffs/mkspiffs
 	url = https://github.com/igrr/mkspiffs.git
+[submodule "components/micropython-lib"]
+	path = components/micropython-lib
+	url = git@github.com:micropython/micropython-lib.git
